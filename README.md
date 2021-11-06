@@ -15,7 +15,7 @@
   <img align="center" alt="maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="maria-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="maria-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="maria-gif" height="120" style="border-radius:50px;" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
+  <img align="right" alt="maria-gif" height="100" style="border-radius:50px;" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif">
 </div>
   
 ##
