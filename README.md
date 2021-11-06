@@ -1,6 +1,6 @@
 ### Oiii, eu sou a Maria Clara 👋
 
-✨ Cientista da Computação em formação ✨
+Cientista da Computação em formação... 
 
 <div align="center">
   <a href="https://github.com/mariaclara-rs">
