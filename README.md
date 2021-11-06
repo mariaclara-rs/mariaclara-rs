@@ -23,7 +23,7 @@
   <a href = "mailto:mariaclara.rgs@gmail.com">
     <img height="27" width="90"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/mariaclararodriguessimao" target="_blank">
+  <a href="https://www.linkedin.com/in/mariaclararsimao" target="_blank">
     <img height="27" width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
